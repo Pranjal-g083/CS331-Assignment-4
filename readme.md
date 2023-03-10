@@ -18,6 +18,13 @@
 
 ---
 
+## Table of contents
+- [Part 1: KMeans Clustering](#part-1-KMeans-Clustering)
+- [Part 2: LBG Algorithm](#part-2-LBG-algorithm)
+- [Final Results and plots](#final-results-and-plots)
+
+---
+
 ## Part 1: KMeans Clustering
 
 The required file is `KMeans.c`. 
